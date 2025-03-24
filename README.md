@@ -1,5 +1,5 @@
 ## 🌐Entendendo o projeto
-#### O projeto, trata-se da criação de boards com funções CRUD que comunicam com o banco de dados.
+#### O projeto, trata-se da criação de boards de tarefa com funções CRUD que comunicam com o banco de dados.
 
 ### - Pasta: BOARDS
 #### Projeto inicial não finalizado. A exclusão ainda não foi realizada pois utilizo algumas referências para finalidade de estudos
