@@ -8,7 +8,7 @@
 #### Projeto finaliado, portanto ainda resta alguns ajustes para um bom funcionamento
 
 ## 🧮Diagrama do projeto:
-![Diagrama_Database_Boards](https://drive.google.com/file/d/19sxw2_AM1pOJj7OwwZFizfjXqnpptC5U/view?usp=sharing)
+[Database Board Diagram drawio](https://github.com/user-attachments/assets/6bf3153c-583e-43d7-8894-174311f9a93c)
 
 ### 🛠️Ferramentas utilizadas: 
 - Java (Linguagem)
